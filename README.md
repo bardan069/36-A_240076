@@ -1,2 +1,4 @@
 # 36-A_240076
-for java class
+for Java Class
+
+New information for this git repo
